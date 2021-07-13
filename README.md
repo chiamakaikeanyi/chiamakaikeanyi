@@ -31,9 +31,9 @@ I'm a Software Engineer and technical writer. I care about how software solution
 ### GitHub Stats
 
 <div>
-<img align="left" alt="Chiamaka Ikeanyi's GitHub Stats" src="https://github-readme-stats-chiamakaikeanyi.vercel.app/api?username=chiamakaikeanyi&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight" />
+<img align="center" alt="Chiamaka Ikeanyi's GitHub Stats" src="https://github-readme-stats-chiamakaikeanyi.vercel.app/api?username=chiamakaikeanyi&show_icons=true&hide_border=true&include_all_commits=true&theme=material-palenight" />
 
-<img align="left" src="https://github-readme-stats-chiamakaikeanyi.vercel.app/api/top-langs/?username=chiamakaikeanyi&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats-chiamakaikeanyi.vercel.app/api/top-langs/?username=chiamakaikeanyi&layout=compact&theme=material-palenight" />
 </div>
 
 [javascript]: https://chiamakaikeanyi.dev/tag/java-script/
