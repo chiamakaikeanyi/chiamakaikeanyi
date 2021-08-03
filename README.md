@@ -1,6 +1,6 @@
 ### Hi, I'm Chiamaka 👋🏾 👩🏾‍💻 ✨
 
-[Visit my Website](https://www.chiamakaikeanyi.dev) |
+[Visit my Website](https://chiamakaikeanyi.dev/why-i-blog/) |
 [Follow me on Twitter](https://twitter.com/chiamakaikeanyi)
 
 ---
