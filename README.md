@@ -8,7 +8,7 @@
 I'm a Software Engineer and technical writer. I care about how software solutions improve user experience hence, an ardent proponent of accessibility and user-centred computing.
 
 - 🔭 I share technical knowledge on [chiamakaikeanyi.dev](https://chiamakaikeanyi.dev/why-i-blog/)
-- 🌱 I'm currently learning Typescript
+- 🌱 I'm constantly learning
 - 💬 Ask me about [Accessibility](https://chiamakaikeanyi.dev/tag/accessibility/)
 - ⚡ I enjoy drawing, writing [poems](https://medium.com/poesie) and photograghy.
 
